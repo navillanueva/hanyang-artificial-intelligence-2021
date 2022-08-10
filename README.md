@@ -1,6 +1,3 @@
-# Hotel Demand Prediction Algorithm
+# Fake News Detector
 
-Final project for AI course in Hanyang University 2021. In this repo you will find the code for a simple pyhton algorithm that uses
-
-
-Simple python algorithm that uses word analysis based on a data set of fake and true news to detect what headliners are most likely to be fake news.
+Final project for artificial intelligence within organizations at Universidad Carlos 3 de Madrid in December of 2022. In this repo you will find the code for a simple pyhton algorithm that used (original kaggle dataset has been deleted) a dataset of headliners for real and fake news and by using word analysis creates an algorithm that predicts the veracity of a news according to its headline.
